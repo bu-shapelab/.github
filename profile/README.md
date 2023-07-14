@@ -1,6 +1,6 @@
 # Shape Lab
 
-![banner](banner.jpg)
+![banner](https://github.com/bu-shapelab/.github/blob/main/profile/banner.jpg)
 
 Welcome to the BU Shape Lab where computation meets creativity.
 We investigate research problems in Computer Graphics and Computational Fabrication, with interests extending into Human Computer Interaction and Engineering Mechanics.
